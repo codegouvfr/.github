@@ -1,6 +1,6 @@
 Bienvenue sur le compte d'organisation GitHub de la mission logiciels libres de la DINUM !
 
-L'équipe de la mission logiciels libres y publie les codes sources des sites web et des logiciels libres qu'elle publie pour elle-même et pour le reste de l'administration publique.
+L'équipe de la mission logiciels libres y publie les codes sources des sites web et des logiciels libres qu'elle développe pour elle-même et pour le reste de l'administration publique.
 
 Les produits principaux de la mission logiciels libres sont :
 
