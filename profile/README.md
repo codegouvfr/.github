@@ -18,8 +18,6 @@ Nous publions aussi des codes sources sur [SourceHut](https://git.sr.ht/~codegou
 
 Les contributions à nos projets sont les bienvenues, qu'elles proviennent de professionnels du secteur public ou de la communauté des développeurs en général.
 
----
-
 ## Welcome
 
 Welcome to our GitHub organization account!
@@ -38,9 +36,7 @@ We also publish source code on [SourceHut](https://git.sr.ht/~codegouvfr/).
 
 Contributions to our projects are welcome, whether from public sector professionals or the wider developer community.
 
----
-
-# Bienvenido
+## Bienvenido
 
 ¡Bienvenido a nuestra cuenta de organización en GitHub!
 
