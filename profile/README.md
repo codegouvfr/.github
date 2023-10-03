@@ -4,7 +4,7 @@
 
 Bienvenue sur notre compte d'organisation GitHub !
 
-Nous sommes la mission logiciels libres de la DINUM (Direction Interministérielle du Numérique).
+Nous sommes la mission logiciels libres de la DINUM ([Direction interministérielle du numérique](https://www.numerique.gouv.fr/)).
 
 Nous y publions, pour nous-même et pour le reste de l'administration publique, les codes sources de nos sites web et de nos logiciels libres.
 
@@ -22,7 +22,7 @@ Les contributions à nos projets sont les bienvenues, qu'elles proviennent de pr
 
 Welcome to our GitHub organization account!
 
-We are the French free software office of the DINUM (Interministerial Directorate for Digital Affairs).
+We are the French free software office of the DINUM ([Interministerial Directorate for Digital Affairs](https://www.numerique.gouv.fr/)).
 
 Here we publish, for ourselves and for the rest of the public administration, the source code of our websites and free software.
 
