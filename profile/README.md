@@ -20,7 +20,12 @@ Les contributions à nos projets sont les bienvenues, qu'elles proviennent de pr
 
 Vous pouvez trouver les bibliothèques que nous développons sur [npmjs.com](https://www.npmjs.com/search?q=%40codegouvfr) et [dockerhub](https://hub.docker.com/u/codegouvfr).
 
+Vous pouvez nous contacter à l'adresse <contact@code.gouv.fr>.
+
 ## Welcome
+
+<details>
+  <summary>English version</summary>
 
 Welcome to our GitHub organization account!
 
@@ -40,7 +45,14 @@ Contributions to our projects are welcome, whether from public sector profession
 
 You can find the libraries we publish on [npmjs.com](https://www.npmjs.com/search?q=%40codegouvfr) and [dockerhub](https://hub.docker.com/u/codegouvfr).
 
+You can contact us at <contact@code.gouv.fr>.
+
+</details>
+
 ## Bienvenido
+
+<details>
+  <summary>Versión en español</summary>
 
 ¡Bienvenido a nuestra cuenta de organización en GitHub!
 
@@ -59,3 +71,7 @@ También publicamos código fuente en [SourceHut](https://git.sr.ht/~codegouvfr/
 Se aceptan contribuciones, tanto si proceden de profesionales del sector público como de la comunidad de desarrolladores en general.
 
 Puede encontrar las bibliotecas que publicamos en [npmjs.com](https://www.npmjs.com/search?q=%40codegouvfr) y [dockerhub](https://hub.docker.com/u/codegouvfr).
+
+Puede contactarnos en <contact@code.gouv.fr>.
+
+</details>
