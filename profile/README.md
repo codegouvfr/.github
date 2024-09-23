@@ -11,7 +11,7 @@ Nous y publions, pour nous-mêmes et pour le reste de l'administration publique,
 Nos produits principaux sont :
 
 - [code.gouv.fr/sill](https://code.gouv.fr/sill) : le socle interministériel de logiciels libres.
-- [code.gouv.fr/public](https://code.gouv.fr/public) : la liste des dépôts de code source publiés par des organismes publics.
+- [code.gouv.fr/sources](https://code.gouv.fr/sources) : la liste des dépôts de code source publiés par des organismes publics.
 - [code.gouv.fr](https://code.gouv.fr) : le site de présentation de la mission.
 
 Nous publions aussi des codes sources sur [SourceHut](https://git.sr.ht/~codegouvfr/).
@@ -36,7 +36,7 @@ Here we publish, for ourselves and for the rest of the public administration, th
 Our main products are:
 
 - [code.gouv.fr/sill](https://code.gouv.fr/sill): the interministerial free software reference catalog.
-- [code.gouv.fr/public](https://code.gouv.fr/public): the public source code repositories catalog.
+- [code.gouv.fr/sources](https://code.gouv.fr/sources): the public source code repositories catalog.
 - [code.gouv.fr](https://code.gouv.fr): our website.
 
 We also publish source code on [SourceHut](https://git.sr.ht/~codegouvfr/).
@@ -63,7 +63,7 @@ Aquí publicamos, para nosotros mismos y para el resto de la administración pú
 Nuestros principales productos son:
 
 - [code.gouv.fr/sill](https://code.gouv.fr/sill): el catálogo de referencia del software libre.
-- [code.gouv.fr/public](https://code.gouv.fr/public): el catálogo de código fuente público.
+- [code.gouv.fr/sources](https://code.gouv.fr/sources): el catálogo de código fuente público.
 - [code.gouv.fr](https://code.gouv.fr): nuestro sitio web.
 
 También publicamos código fuente en [SourceHut](https://git.sr.ht/~codegouvfr/).
